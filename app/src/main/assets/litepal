@@ -1,0 +1,11 @@
+<litepal>
+
+    <dbname value="duanzhan" />
+
+    <version value="1" />
+
+    <list>
+        <mapping class="com.example.myproject.db.Duanzhan" />
+    </list>
+
+</litepal>
